@@ -1,0 +1,1 @@
+setblock ~ 319 ~ lightning_rod
