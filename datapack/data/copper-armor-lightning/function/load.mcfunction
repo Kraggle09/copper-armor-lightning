@@ -1,0 +1,1 @@
+schedule function copper-armor-lightning:removearmorstand 10t

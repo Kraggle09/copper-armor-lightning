@@ -1,0 +1,1 @@
+execute if entity @e[tag=lightningrodarmorstand,distance=..2] as @s at @s run function copper-armor-lightning:carrylightning
