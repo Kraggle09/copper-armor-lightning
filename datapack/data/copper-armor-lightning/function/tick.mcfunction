@@ -6,3 +6,5 @@ execute at @a[tag=wearingCopperArmor] unless block ~ 319 ~ minecraft:lightning_r
 # execute at @a[tag=wearingCopperArmor] run function copper-armor-lightning:summonrod
 
 execute as @e[type=lightning_bolt] at @s run function copper-armor-lightning:detectlightning
+
+effect give @e[tag=lightningrodarmorstand] invisibility infinite
